@@ -18,3 +18,5 @@ bin
 developer-eggs
 downloads
 Documentation/*
+test-*.py
+ve/*
